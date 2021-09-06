@@ -16,4 +16,4 @@ npm install react-redux
 
 ![image](https://user-images.githubusercontent.com/52380781/132245820-05263127-db1c-42bc-95ee-0733522b0caa.png)
 
-> This project can be used as a refernce for using React Redux
+> This project can be used as a reference for using React Redux
